@@ -1,0 +1,138 @@
+body {
+  color:#40514E;
+  margin: 0;
+  text-align: center;
+
+}
+
+h1 {
+  color:#05595B;
+  font-size: 5.625em;
+  margin: 50px auto 0 auto;
+  font-family:'Sacramento',monospace;
+
+}
+
+h3{
+  color: #062C30;
+   font-family: 'Raleway', sans-serif;
+}
+h2{
+  color: #062C30;
+  font-family:'Lobster Two',cursive;
+  font-size:2rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+p{
+  font-family: 'Vazirmatn', sans-serif;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color:grey;
+  border-width: 10px;
+  width: 5%;
+}
+
+a{
+  color: #05595B;
+  font-weight: bold;
+  text-decoration: none;
+  margin:10px;
+
+}
+
+a:hover{
+  color: white;
+}
+
+.top-container {
+  background-color: #39AEA9;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  margin: 50px 0;
+}
+
+.bottom-container{
+  padding:40px 0 20px;
+  background-color: #39AEA9;
+
+}
+
+.skill-row{
+  width:50%;
+  margin:50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.me{
+  width: 200px;
+  height: 200px;
+}
+
+.intro{
+  width: 35%;
+  margin: auto;
+}
+.info{
+  font-size: 2rem;
+  color:#05595B;
+}
+
+.junior {
+  text-decoration: underline;
+}
+
+.second-cloud {
+  position: absolute;
+  left:400px;
+}
+
+.first-cloud {
+  position: absolute;
+  right:400px;
+  top:100px;
+}
+.info{
+  font-family:  'Anybody', monospace;
+  font-weight: bold;
+  font-weight: normal;
+}
+
+.skill{
+  border-radius:  50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Bskill{
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.btn{
+  line-height: 4;
+  border-style: solid;
+  border-radius: 8%;
+  padding:  10px;
+  background-color: #05595B;
+  color:white;
+}
+
+.btn:hover{
+  background-color:#062C30;
+}
+
+.copyright{
+  color:white;
+  font-size:0.75rem;
+  padding: 20px 0 ;
+}
